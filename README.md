@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @boruett
 - 👀 I’m interested in embedded systems and risk management
 - 🌱 I’m currently learning c++ and Python
-- 💞️ I’m looking to collaborate on designing trading algorithms
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://twitter.com/ebkimaru
 
 <!---
